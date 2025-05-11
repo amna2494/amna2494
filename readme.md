@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Amna
 
 🎯 **Senior Test Engineer** | 🧪 **QA Automation Specialist**  
 🔧 Focused on **Playwright**, **Cypress**, **JavaScript**, and **TypeScript**
